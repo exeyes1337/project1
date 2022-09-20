@@ -1,0 +1,66 @@
+h1{
+    color: darkgreen;
+    text-transform: uppercase;
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+}
+img{
+    width: 48%;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border: 5px solid powderblue;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+
+    border-top: 1px solid #000;
+    border-bottom: 1px solid red;
+    border-right: 1px solid blue;
+    border-left: 1px solid #000; */
+
+}
+body{
+    background-color: purple;
+}
+.yellow-boarder{
+    
+    border-bottom: 5px solid yellow;
+    
+}
+
+.lightblue-boarder{
+    border: 5px cornflowerblue solid ;
+    border-top-left-radius: 70%;
+}
+p{
+    color: aquamarine;
+    font-size: 18px;
+}
+.blue-color{
+    color: chartreuse;
+    font-style: italic;   
+}
+.cat {
+    border-bottom: 2px solid burlywood;
+    border-top: 2px solid violet;
+}
+.yellow{
+    color: yellow;
+
+}
+.line{
+    text-decoration: underline;
+
+}
+.red{
+    color: red;
+    list-style-type: circle;
+}
+.lorem1{
+    border: 2px black solid;
+    border-bottom:  2px solid pink;
+}
+.qwert{
+    background-color: blue;
+}
